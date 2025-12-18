@@ -1,0 +1,5 @@
+airlinebookingapp\test\BookingServiceDaoTest.class
+airlinebookingapp\stub\FakeFlightDao.class
+airlinebookingapp\stub\FakeBookingDao.class
+airlinebookingapp\stub\FakePassengerDao.class
+airlinebookingapp\test\BookingServiceTest.class
