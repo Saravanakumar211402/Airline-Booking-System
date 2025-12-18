@@ -59,10 +59,10 @@ airline-booking-system/
 
 ## Future Improvements
 - Add front-end interface (HTML/CSS/JS or React)
-- Integrate with a real database (JDBC or JPA)
-- Add concurrency-safe booking logic
+- Advanced concurrency-safe booking logic
+- CI/CD integration with GitHub Actions
 - REST API layer using Spring Boot
-
+- Docker setup for containerized deployment
 
 ## 🛠 Installation
 ```bash
